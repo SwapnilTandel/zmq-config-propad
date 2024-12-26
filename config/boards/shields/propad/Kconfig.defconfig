@@ -1,0 +1,6 @@
+if SHIELD_PROPAD
+
+config ZMK_KEYBOARD_NAME
+   default "ProPad"
+
+endif
